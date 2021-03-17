@@ -1,4 +1,4 @@
-package repeatedDNA;
+package leetcpde187;
 
 import java.util.ArrayList;
 import java.util.HashMap;

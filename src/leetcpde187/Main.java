@@ -1,4 +1,4 @@
-package repeatedDNA;
+package leetcpde187;
 
 public class Main {
 	public static void main(String[] args) {
