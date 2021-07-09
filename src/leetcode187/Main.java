@@ -1,4 +1,4 @@
-package leetcpde187;
+package leetcode187;
 
 public class Main {
 	public static void main(String[] args) {

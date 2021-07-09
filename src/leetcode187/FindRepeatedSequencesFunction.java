@@ -1,4 +1,4 @@
-package leetcpde187;
+package leetcode187;
 
 import java.util.ArrayList;
 import java.util.HashMap;
